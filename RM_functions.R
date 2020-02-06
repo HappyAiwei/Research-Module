@@ -1,3 +1,9 @@
+##-------------------------------------------------------------------------------
+## This code is written by Aiwei Huang.                                         -
+## Licensed under The Apache License Version 2.0 [see LICENSE for details]      -
+##-------------------------------------------------------------------------------
+
+
 library(AER); library(foreign); library(mvtnorm); library(car); library(lmtest); 
 library(zoo); library(sandwich); library(survival)
 library(MASS); library(matlib); library(expm); library(depth)

@@ -1,3 +1,8 @@
+##-------------------------------------------------------------------------------
+## This code is written by Aiwei Huang.                                         -
+## Licensed under The Apache License Version 2.0 [see LICENSE for details]      -
+##-------------------------------------------------------------------------------
+
 rm(list=ls())
 set.seed(123)
 source("RM_functions.R")
